@@ -1,0 +1,15 @@
+- When you separate 2 [[Independent Clauses]] with a comma - a common error.
+-
+- eg. Layla drove her car into London, she could not find parking.
+- **Cannot use a comma to separate 2 ICs in this way**
+-
+- You could use a [[connective]] , like a [[Full Stop]] or a [[Semicolon]]
+	- Layla drove her car into London. She could not find parking.
+	- Layla drove her card into London; she could not find parking.
+	- Layla drove her car into London, and she could not find parking.
+	- ...
+- That is, you could use one of:
+	- [[IC]]. [[IC]]
+	- [[IC]]; [[IC]]
+	- [[IC]], CC/Fanboy's IC
+	- [[IC]; [[IC]], [[DC]] or List

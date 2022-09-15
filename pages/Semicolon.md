@@ -1,0 +1,4 @@
+- #connective
+- NB: No capitals afterwards.
+-
+- When used, for example in a [[Comma Splice]], creates a closer causal link than a [[Full Stop]]
