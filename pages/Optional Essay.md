@@ -1,0 +1,2 @@
+- UES doesn't reccommend - bit obselete
+- Can spend more time on it after the first 4 sections of the application are done.
