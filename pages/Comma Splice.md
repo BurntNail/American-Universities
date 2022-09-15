@@ -11,5 +11,5 @@
 - That is, you could use one of:
 	- [[IC]]. [[IC]]
 	- [[IC]]; [[IC]]
-	- [[IC]], CC/Fanboy's IC
-	- [[IC]; [[IC]], [[DC]] or List
+	- [[IC]], [[CC]]/ [[Fanboys]]
+	- [[IC]]; [[IC]], [[DC]] or List

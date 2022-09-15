@@ -1,0 +1,11 @@
+- Seven words that can join 2 [[Independent Clauses]]
+-
+- The Words:
+  id:: 63236fe8-4c41-4574-a59e-7adca372d7fa
+	- For
+	- And
+	- Nor
+	- But
+	- Or
+	- Yet
+	- So

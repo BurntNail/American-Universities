@@ -5,4 +5,4 @@
 - [[Transitions & Dictation 105]]
 - [[Subject-Verb Agreement & Verb Tense 106]]
 - [[Pronouns 107]]
-- [[Possessives & Contractions, etc. 108]]
+- [[Possessives & Contractions, etc 108]]

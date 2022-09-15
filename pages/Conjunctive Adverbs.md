@@ -1,0 +1,17 @@
+- Examples:
+	- The majority of transition words:
+		- However
+		- Nonetheless
+		- For Example
+		- Additionally
+		- Thus
+		- In Fact
+		- etc.
+-
+- Properties:
+	- Conjunctive adverbs have zero powers. These transitions cannot hold up 2 [[IC]]s with just a comma - a [[Semicolon]] is needed to do that work.
+-
+- Incorrect Use:
+	- Linda loves fast food, **however**, she does not like drive thrus.
+- Correct Use:
+	- Linda loves fast food; however, she does not like drive thrus.

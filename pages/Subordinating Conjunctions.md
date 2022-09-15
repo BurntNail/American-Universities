@@ -1,0 +1,17 @@
+- Examples:
+	- Because
+	- Although
+	- If
+	- Since
+	- Despite
+	- When
+	- Unless
+	- While
+-
+- Properties:
+	- These transitions turn an [[IC]] into a [[DC]].
+-
+- Incorrect Use:
+	- **Because** Reemus is so violent, **so** he cannot have scissors.
+- Correct Use:
+	- **Because** Reemus is s violent, he cannot have scissors
