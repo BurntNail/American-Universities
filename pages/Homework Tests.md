@@ -1,0 +1,2 @@
+- Make sure to complete at least 24 hours before every lesson.
+- Note down every odd question answer, and then *Start* the Test on [The UES Website](https://onlinescoretracker.com/student-panel/tests/customTestList/21)
