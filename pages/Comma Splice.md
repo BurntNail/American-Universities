@@ -7,9 +7,9 @@
 	- Layla drove her car into London. She could not find parking.
 	- Layla drove her card into London; she could not find parking.
 	- Layla drove her car into London, and she could not find parking.
-	- ...
+	- Layla regretted her decision to drive her car into London: she could not find parking.
 - That is, you could use one of:
 	- [[IC]]. [[IC]]
 	- [[IC]]; [[IC]]
-	- [[IC]], [[CC]]/ [[Fanboys]]
+	- [[IC]], [[CC]]/ [[Fanboys]] [[IC]]
 	- [[IC]]; [[IC]], [[DC]] or List
