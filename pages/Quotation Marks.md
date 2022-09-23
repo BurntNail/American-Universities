@@ -1,0 +1,6 @@
+- When it is *explicitly* indicated that someone is speaking ("Jon says"; "Pamela claims,"; "Dhurva opines"), then a [[Comma]] must come before the quotation marks.
+	- Charef shared, "I don't normally eat tacos on Tuesdays, but for you I'll make an exception."
+- When a quote is imbedded and it is *implied* that these are a person's words, then a [[Comma]] should not be used before the quotes.
+	- Charef shared that he doesn't "normally eat tacos on Tuesdays, but... [for me he'll] make an exception."
+- When the quote comes after a full [[IC]] then a [[Colon]] is used to introduce the quote.
+	- Charef promised to break out of his shell in an effort to further our relationship: "I don't normally eat tacos on Tuesdays, but... [for me he'll] make an exception."
