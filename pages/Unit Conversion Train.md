@@ -1,6 +1,6 @@
 - {{embed ((63236516-52ce-49cb-990e-ebf0c093fbdc))}}
 -
-- $$\$ = \frac{\$7}{1000m^2} * \frac{400m^2}{1\ lawn} * \frac{7\ lawns}{86\ minutes} * \frac{60\ minutes}{1\ hour} * 8\ hours = \$109.40$$
+- $$ \$ = \frac{\$7}{1000m^2} * \frac{400m^2}{1\ lawn} * \frac{7\ lawns}{86\ minutes} * \frac{60\ minutes}{1\ hour} * 8\ hours = \$109.40$$
 - Write down the desired units for the answer for the question to the left of the equals sign. `How much money, in dollars`
 - Start with the **dollars** unit as the numerator for your first proportion in the equation.
 - Be sure that the numerator of each proportion matches the denominator of the previous proportion.
